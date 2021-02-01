@@ -1,0 +1,15 @@
+Source: fits2idia
+Section: science
+Priority: optional
+Maintainer: Adrianna Pińska <adrianna.pinska@gmail.com>
+Build-Depends: cmake, debhelper (>=11~), libhdf5-dev, libcfitsio-dev
+Standards-Version: 4.1.4
+Homepage: https://github.com/idia-astro/fits2idia
+
+Package: fits2idia
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: FITS to IDIA HDF5 converter
+ This utility converts astronomical image data from the FITS format to the HDF5
+  format using the IDIA schema.

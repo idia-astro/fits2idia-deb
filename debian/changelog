@@ -1,0 +1,17 @@
+fits2idia (0.1.13-1ubuntu2) focal; urgency=medium
+
+  * Rebuild after enabling debugging symbols in the PPA.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 21 Jan 2021 15:50:55 +0200
+
+fits2idia (0.1.13-1ubuntu1) focal; urgency=low
+
+  * Added build dependencies.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 21 Jan 2021 15:27:09 +0200
+
+fits2idia (0.1.13-1) focal; urgency=low
+
+  * Initial release.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Mon, 18 Jan 2021 16:42:40 +0200

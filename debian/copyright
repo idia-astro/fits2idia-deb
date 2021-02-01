@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fits2idia
+Upstream-Contact: Adrianna Pińska <adrianna.pinska@gmail.com>
+Source: https://github.com/idia-astro/fits2idia
+
+Files:     *
+Copyright: 2019-2021 the Inter-University Institute for Data Intensive Astronomy (IDIA)
+License:   GPL-3+
+ /usr/share/common-licenses/GPL-3
