@@ -1,3 +1,9 @@
+fits2idia (0.1.13-2) focal; urgency=medium
+
+  * Rebuild with more consistently numbered package.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 03 Feb 2021 23:29:26 +0200
+
 fits2idia (0.1.13-1ubuntu3) focal; urgency=medium
 
   * Rebuild after updates to debian package metadata.
