@@ -1,3 +1,9 @@
+fits2idia (0.1.13+fixed1-1~focal1) focal; urgency=medium
+
+  * Rebuild with fixed tarball and release-specific version.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Mon, 22 Feb 2021 13:22:39 +0200
+
 fits2idia (0.1.13-2) focal; urgency=medium
 
   * Rebuild with more consistently numbered package.
