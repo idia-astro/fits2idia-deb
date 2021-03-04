@@ -2,7 +2,7 @@ Source: fits2idia
 Section: science
 Priority: optional
 Maintainer: Adrianna Pińska <adrianna.pinska@gmail.com>
-Build-Depends: cmake, debhelper (>=11~), libhdf5-dev, libcfitsio-dev
+Build-Depends: cmake, debhelper (>=11~), libhdf5-dev, libcfitsio-dev, pkg-config
 Standards-Version: 4.1.4
 Homepage: https://github.com/idia-astro/fits2idia
 Vcs-Browser: https://github.com/idia-astro/fits2idia-deb

@@ -1,3 +1,9 @@
+fits2idia (0.1.13+fixed2-1~bionic1) bionic; urgency=medium
+
+  * Rebuild with correct optimisations from latest dev (build changes only).
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 04 Mar 2021 17:20:30 +0200
+
 fits2idia (0.1.13+fixed1-1~bionic1) bionic; urgency=medium
 
   * Rebuild with release-specific version.
