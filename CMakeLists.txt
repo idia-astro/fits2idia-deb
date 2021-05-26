@@ -1,7 +1,9 @@
 cmake_minimum_required(VERSION 3.10)
 project(fits2idia)
 
-set(CMAKE_BUILD_TYPE "RelWithDebInfo")
+if(NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE "RelWithDebInfo")
+endif()
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -18,7 +20,7 @@ if (HDF5_FOUND)
     include_directories(${HDF5_INCLUDE_DIR})
     set(LINK_LIBS ${LINK_LIBS} ${HDF5_LIBRARIES})
 else ()
-    message(FATAL_ERROR "Could not find CFITSIO.")
+    message(FATAL_ERROR "Could not find HDF5.")
 endif ()
 
 FIND_PACKAGE(PkgConfig REQUIRED)
