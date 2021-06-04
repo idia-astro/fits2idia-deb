@@ -1,3 +1,9 @@
+fits2idia (0.1.14+fixed1-1~focal1) focal; urgency=medium
+
+  * Fixed executable name in help.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 04 Jun 2021 06:36:28 +0200
+
 fits2idia (0.1.14-1~focal1) focal; urgency=medium
 
   * Rebuild from latest upstream version.
