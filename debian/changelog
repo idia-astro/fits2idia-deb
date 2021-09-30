@@ -1,3 +1,9 @@
+fits2idia (0.1.15-1~focal1) focal; urgency=medium
+
+  * Added a configurable memory limit for system administrators.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 30 Sep 2021 14:08:52 +0200
+
 fits2idia (0.1.14+fixed1-1~focal1) focal; urgency=medium
 
   * Fixed executable name in help.
