@@ -1,3 +1,9 @@
+fits2idia (0.1.15-1~jammy1) jammy; urgency=medium
+
+  * First Jammy build.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 05 Aug 2022 13:46:45 +0200
+
 fits2idia (0.1.15-1~focal1) focal; urgency=medium
 
   * Added a configurable memory limit for system administrators.
